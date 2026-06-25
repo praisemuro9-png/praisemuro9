@@ -1,4 +1,4 @@
-# Hi, I'm [is Praise]
+# Hi, I'm [Praise]
 
 ## About Me
 - I'm currently learning [I'm doing course of computer science at IYF].
